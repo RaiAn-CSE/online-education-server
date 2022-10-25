@@ -1,55 +1,61 @@
 [
     {
-        "id": "01",
+        "id": "0123",
         "category": "COMPUTER SCIENCE",
         "name": "Introduction to Computer Science and Programming",
         "price": 420,
         "ratings": 4,
+        "details": "This course is the first of a two-course sequence: Introduction to Computer Science and Programming Using Python, and Introduction to Computational Thinking and Data Science. Together, they are designed to help people with no prior exposure to computer science or programming learn to think computationally and write programs to tackle useful problems. Some of the people taking the two courses will use them as a stepping stone to more advanced computer science courses, but for many it will be their first and last computer science courses. This run features lecture videos, lecture exercises, and problem sets using Python 3.5. Even if you previously took the course with Python 2.7, you will be able to easily transition to Python 3.5 in future courses, or enroll now to refresh your learning.",
         "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/programming-code-2021-09-24-02-52-16-utc-1024x682.jpg",
         "time": "120 Hours"
     },
     {
-        "id": "02",
+        "id": "0223",
         "category": "PROGRAMMING",
         "name": "Programming Foundations: JavaScript, HTML and CSS",
         "price": 420,
         "ratings": 4,
+        "details": "This course is the first of a two-course sequence: Introduction to Computer Science and Programming Using Python, and Introduction to Computational Thinking and Data Science. Together, they are designed to help people with no prior exposure to computer science or programming learn to think computationally and write programs to tackle useful problems. Some of the people taking the two courses will use them as a stepping stone to more advanced computer science courses, but for many it will be their first and last computer science courses. This run features lecture videos, lecture exercises, and problem sets using Python 3.5. Even if you previously took the course with Python 2.7, you will be able to easily transition to Python 3.5 in future courses, or enroll now to refresh your learning.",
         "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/professor-is-doing-online-lecture-2021-08-27-23-33-50-utc-1024x684.jpg",
         "time": "120 Hours"
     },
     {
-        "id": "03",
+        "id": "0323",
         "category": "DESIGN",
         "name": "Foundations of User Experience (UX) Design",
         "price": 420,
         "ratings": 4,
+        "details": "This course is the first of a two-course sequence: Introduction to Computer Science and Programming Using Python, and Introduction to Computational Thinking and Data Science. Together, they are designed to help people with no prior exposure to computer science or programming learn to think computationally and write programs to tackle useful problems. Some of the people taking the two courses will use them as a stepping stone to more advanced computer science courses, but for many it will be their first and last computer science courses. This run features lecture videos, lecture exercises, and problem sets using Python 3.5. Even if you previously took the course with Python 2.7, you will be able to easily transition to Python 3.5 in future courses, or enroll now to refresh your learning.",
         "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/website-development-2021-09-04-07-39-08-utc-1024x684.jpg",
         "time": "120 Hours"
     },
     {
-        "id": "04",
+        "id": "0423",
         "category": "COMPUTER SCIENCE",
         "name": "Strategy and Information Architecture",
         "price": 420,
         "ratings": 4,
+        "details": "This course is the first of a two-course sequence: Introduction to Computer Science and Programming Using Python, and Introduction to Computational Thinking and Data Science. Together, they are designed to help people with no prior exposure to computer science or programming learn to think computationally and write programs to tackle useful problems. Some of the people taking the two courses will use them as a stepping stone to more advanced computer science courses, but for many it will be their first and last computer science courses. This run features lecture videos, lecture exercises, and problem sets using Python 3.5. Even if you previously took the course with Python 2.7, you will be able to easily transition to Python 3.5 in future courses, or enroll now to refresh your learning.",
         "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/creative-development-of-programming-websites-for-m-2021-08-30-14-25-58-utc-1024x682.jpg",
         "time": "120 Hours"
     },
     {
-        "id": "05",
+        "id": "0523",
         "category": "DESIGN",
         "name": "Create a Process Map using a Canva Template",
         "price": 420,
         "ratings": 4,
+        "details": "This course is the first of a two-course sequence: Introduction to Computer Science and Programming Using Python, and Introduction to Computational Thinking and Data Science. Together, they are designed to help people with no prior exposure to computer science or programming learn to think computationally and write programs to tackle useful problems. Some of the people taking the two courses will use them as a stepping stone to more advanced computer science courses, but for many it will be their first and last computer science courses. This run features lecture videos, lecture exercises, and problem sets using Python 3.5. Even if you previously took the course with Python 2.7, you will be able to easily transition to Python 3.5 in future courses, or enroll now to refresh your learning.",
         "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/discussing-website-project-2021-08-26-19-52-42-utc-1024x684.jpg",
         "time": "120 Hours"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "0623",
         "category": "MARKETING",
         "name": "Marketing Channel Strategy & B2B2C Routes to Market",
         "price": 420,
         "ratings": 4,
+        "details": "This course is the first of a two-course sequence: Introduction to Computer Science and Programming Using Python, and Introduction to Computational Thinking and Data Science. Together, they are designed to help people with no prior exposure to computer science or programming learn to think computationally and write programs to tackle useful problems. Some of the people taking the two courses will use them as a stepping stone to more advanced computer science courses, but for many it will be their first and last computer science courses. This run features lecture videos, lecture exercises, and problem sets using Python 3.5. Even if you previously took the course with Python 2.7, you will be able to easily transition to Python 3.5 in future courses, or enroll now to refresh your learning.",
         "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/document-marketing-strategy-business-concept-1024x560.jpg",
         "time": "120 Hours"
     }
