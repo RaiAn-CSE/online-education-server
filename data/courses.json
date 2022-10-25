@@ -1,0 +1,56 @@
+[
+    {
+        "id": "01",
+        "category": "COMPUTER SCIENCE",
+        "name": "Introduction to Computer Science and Programming",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/programming-code-2021-09-24-02-52-16-utc-1024x682.jpg",
+        "time": "120 Hours"
+    },
+    {
+        "id": "02",
+        "category": "PROGRAMMING",
+        "name": "Programming Foundations: JavaScript, HTML and CSS",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/professor-is-doing-online-lecture-2021-08-27-23-33-50-utc-1024x684.jpg",
+        "time": "120 Hours"
+    },
+    {
+        "id": "03",
+        "category": "DESIGN",
+        "name": "Foundations of User Experience (UX) Design",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/website-development-2021-09-04-07-39-08-utc-1024x684.jpg",
+        "time": "120 Hours"
+    },
+    {
+        "id": "04",
+        "category": "COMPUTER SCIENCE",
+        "name": "Strategy and Information Architecture",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/creative-development-of-programming-websites-for-m-2021-08-30-14-25-58-utc-1024x682.jpg",
+        "time": "120 Hours"
+    },
+    {
+        "id": "05",
+        "category": "DESIGN",
+        "name": "Create a Process Map using a Canva Template",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/discussing-website-project-2021-08-26-19-52-42-utc-1024x684.jpg",
+        "time": "120 Hours"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "category": "MARKETING",
+        "name": "Marketing Channel Strategy & B2B2C Routes to Market",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/document-marketing-strategy-business-concept-1024x560.jpg",
+        "time": "120 Hours"
+    }
+]
