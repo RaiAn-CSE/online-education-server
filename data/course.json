@@ -1,26 +1,26 @@
 [
     {
-        "id": "01",
+        "id": "0123",
         "name": "Introduction to Computer Science and Programming"
     },
     {
-        "id": "02",
+        "id": "0223",
         "name": "Programming Foundations: JavaScript, HTML and CSS"
     },
     {
-        "id": "03",
+        "id": "0323",
         "name": "Foundations of User Experience (UX) Design"
     },
     {
-        "id": "04",
+        "id": "0423",
         "name": "Strategy and Information Architecture"
     },
     {
-        "id": "05",
+        "id": "0523",
         "name": "Create a Process Map using a Canva Template"
     },
     {
-        "id": "06",
+        "id": "0623",
         "name": "Marketing Channel Strategy & B2B2C Routes to Market"
     }
 ]
