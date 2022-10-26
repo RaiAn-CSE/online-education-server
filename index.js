@@ -16,17 +16,6 @@ app.get('/course-items', (req, res) => {
     res.send(course);
 });
 
-// app.get('/category/:id', (req, res) => {
-//     const id = req.params.id;
-//     if (id === '08') {
-//         req.send(news);
-//     }
-//     else {
-//         const category_news = news.filter(n => n.category_id === id);
-//         res.send(category_news);
-//     }
-// });
-
 app.get('/course-details', (req, res) => {
     res.send(courses);
 })
